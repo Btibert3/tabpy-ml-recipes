@@ -1,8 +1,8 @@
 # About
 
-https://github.com/tableau/TabPy
-https://tableau.github.io/TabPy/
-https://community.tableau.com/docs/DOC-10856
+https://github.com/tableau/TabPy  
+https://tableau.github.io/TabPy/  
+https://community.tableau.com/docs/DOC-10856  
 
 ## Examples
 
